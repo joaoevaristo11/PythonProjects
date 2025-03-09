@@ -1,0 +1,145 @@
+{
+    "perguntas": {
+        "facil": [
+            {
+                "pergunta": "Quem é o protagonista de 'Harry Potter'?",
+                "opcoes": ["Harry Potter", "Ron Weasley", "Hermione Granger", "Dumbledore"],
+                "resposta": "Harry Potter"
+            },
+            {
+                "pergunta": "Qual é o nome do leão em 'O Rei Leão'?",
+                "opcoes": ["Mufasa", "Scar", "Simba", "Nala"],
+                "resposta": "Simba"
+            },
+            {
+                "pergunta": "Qual é o nome do canalizador mais famoso dos videojogos?",
+                "opcoes": ["Mario", "Luigi", "Wario", "Yoshi"],
+                "resposta": "Mario"
+            },
+            {
+                "pergunta": "Em que jogo tens de capturar criaturas chamadas Pokémon?",
+                "opcoes": ["Digimon", "Pokémon", "Yu-Gi-Oh!", "Bakugan"],
+                "resposta": "Pokémon"
+            },
+            {
+                "pergunta": "Qual é a capital de Portugal?",
+                "opcoes": ["Lisboa", "Madrid", "Paris", "Roma"],
+                "resposta": "Lisboa"
+            },
+            {
+                "pergunta": "Qual é a capital da França?",
+                "opcoes": ["Londres", "Berlim", "Paris", "Bruxelas"],
+                "resposta": "Paris"
+            },
+            {
+                "pergunta": "Quem construiu a arca para sobreviver ao dilúvio?",
+                "opcoes": ["Noé", "Moisés", "Abraão", "Davi"],
+                "resposta": "Noé"
+            },
+            {
+                "pergunta": "Qual é o primeiro livro da Bíblia?",
+                "opcoes": ["Gênesis", "Êxodo", "Salmos", "Apocalipse"],
+                "resposta": "Gênesis"
+            },
+            {
+                "pergunta": "Qual é o nome do irmão de Damon Salvatore em 'The Vampire Diaries'?",
+                "opcoes": ["Stefan", "Klaus", "Elijah", "Matt"],
+                "resposta": "Stefan"
+            },
+            {
+                "pergunta": "Em 'Stranger Things', qual é o nome da protagonista com poderes telecinéticos?",
+                "opcoes": ["Eleven", "Max", "Nancy", "Joyce"],
+                "resposta": "Eleven"
+            },
+            {
+                "pergunta": "Qual é o planeta mais próximo do Sol?",
+                "opcoes": ["Terra", "Vênus", "Marte", "Mercúrio"],
+                "resposta": "Mercúrio"
+            },
+            {
+                "pergunta": "Qual é o maior mamífero do mundo?",
+                "opcoes": ["Elefante", "Baleia-azul", "Hipopótamo", "Rinoceronte"],
+                "resposta": "Baleia-azul"
+            }
+        ],
+        "medio": [
+            {
+                "pergunta": "Quem realizou o filme 'Titanic'?",
+                "opcoes": ["Steven Spielberg", "James Cameron", "Christopher Nolan", "Martin Scorsese"],
+                "resposta": "James Cameron"
+            },
+            {
+                "pergunta": "Em que ano foi lançado o primeiro filme de 'O Senhor dos Anéis'?",
+                "opcoes": ["1999", "2000", "2001", "2002"],
+                "resposta": "2001"
+            },
+            {
+                "pergunta": "Qual é o nome do protagonista de 'The Legend of Zelda'?",
+                "opcoes": ["Zelda", "Link", "Ganon", "Epona"],
+                "resposta": "Link"
+            },
+            {
+                "pergunta": "Qual é a empresa responsável pelo jogo 'The Witcher 3'?",
+                "opcoes": ["Bethesda", "CD Projekt Red", "Ubisoft", "Rockstar"],
+                "resposta": "CD Projekt Red"
+            },
+            {
+                "pergunta": "Qual é a capital do Canadá?",
+                "opcoes": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
+                "resposta": "Ottawa"
+            },
+            {
+                "pergunta": "Qual é a capital da Austrália?",
+                "opcoes": ["Sydney", "Melbourne", "Canberra", "Perth"],
+                "resposta": "Canberra"
+            },
+            {
+                "pergunta": "Quantos mandamentos Deus deu a Moisés?",
+                "opcoes": ["5", "7", "10", "12"],
+                "resposta": "10"
+            },
+            {
+                "pergunta": "Qual o nome do anjo que anunciou a Maria que ela daria à luz Jesus?",
+                "opcoes": ["Gabriel", "Miguel", "Rafael", "Uriel"],
+                "resposta": "Gabriel"
+            },
+            {
+                "pergunta": "Em que ano aconteceu a Revolução dos Cravos em Portugal?",
+                "opcoes": ["1972", "1974", "1976", "1980"],
+                "resposta": "1974"
+            },
+            {
+                "pergunta": "Qual é o símbolo químico do ouro?",
+                "opcoes": ["Au", "Ag", "Pb", "Fe"],
+                "resposta": "Au"
+            }
+        ],
+        "dificil": [
+            {
+                "pergunta": "Qual foi o primeiro filme de animação da Disney?",
+                "opcoes": ["Branca de Neve e os Sete Anões", "Pinóquio", "Dumbo", "Bambi"],
+                "resposta": "Branca de Neve e os Sete Anões"
+            },
+            {
+                "pergunta": "Quem compôs a banda sonora de 'Interestelar'?",
+                "opcoes": ["John Williams", "Hans Zimmer", "Ennio Morricone", "Danny Elfman"],
+                "resposta": "Hans Zimmer"
+            },
+            {
+                "pergunta": "Que jogo de 1993 popularizou o género FPS?",
+                "opcoes": ["Quake", "Doom", "Wolfenstein 3D", "Half-Life"],
+                "resposta": "Doom"
+            },
+            {
+                "pergunta": "Qual é o nome do criador da série 'Dark Souls'?",
+                "opcoes": ["Hideo Kojima", "Shigeru Miyamoto", "Hidetaka Miyazaki", "Fumito Ueda"],
+                "resposta": "Hidetaka Miyazaki"
+            },
+            {
+                "pergunta": "Quantos ossos tem o corpo humano adulto?",
+                "opcoes": ["204", "206", "208", "210"],
+                "resposta": "206"
+            }
+        ]
+    }
+}
